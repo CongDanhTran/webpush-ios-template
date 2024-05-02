@@ -7,6 +7,11 @@
   "theme_color": "#90cdf4",
   "orientation": "portrait-primary",
   "icons": [
+        {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image&#x2F;png"
+    },
     {
       "src": "bell2.png",
       "sizes": "500x500",
